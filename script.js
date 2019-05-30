@@ -1,6 +1,6 @@
 
-    var computerChoice = math.random();
-    var userChoice = null;
+    var dators = math.random();
+    var speletajs = null;
 
     if (computerChoice < .33) {
         computerChoice == "akmens";

@@ -11,7 +11,7 @@ float:left;
 }
 
 .rezultats {
-    background-color: rgb(103, 143, 66);
+    background-color: rgb(173, 229, 252);
     width:700px;
     height: 90px;
     text-align: center;
@@ -21,7 +21,7 @@ float:left;
 }
 
 .speletajs {
-    background-color: rgb(168, 167, 164);
+    background-color: rgb(239, 251, 255);
     width:350px;
     height: 300px;
     font-size: 100px;
@@ -29,7 +29,7 @@ float:left;
 }
 
 .dators {
-    background-color: rgb(115, 116, 116);
+    background-color: rgb(217, 244, 252);
     width: 350px;
     height:300px;
     font-size: 100px;
