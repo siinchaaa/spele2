@@ -42,4 +42,6 @@ float:left;
 .akmens, .skeres, .papirs {
 font-size: 45%;
 cursor: pointer;
+border: none;
+background: none;
 }
